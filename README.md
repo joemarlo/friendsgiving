@@ -4,7 +4,7 @@ Game jam for friendsgiving 2023. Download at https://jmarlo.itch.io/friendsgivin
 
 <br>
 <p align="center">
-<a href="https://www.marlo.works/games/tag/tag.html">
+<a href="https://jmarlo.itch.io/friendsgiving">
 <img src="assets/sprite/startingScreen.png" width=70%>
 </a>
 </p>
