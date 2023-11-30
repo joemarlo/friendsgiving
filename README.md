@@ -11,9 +11,9 @@ Game jam for friendsgiving 2023. Download at https://jmarlo.itch.io/friendsgivin
 
 ## Resources
 
-https://tones.wolfram.com/generate/GvPujanrHDKFn1qWKj2NQNJImIN9seFCxluIdM388dNJUsyjH
-GIMP
-remove.bg
-ChatGPT + DALL-E
-Tiled
-https://codeshack.io/images-sprite-sheet-generator/
+https://tones.wolfram.com/generate/GvPujanrHDKFn1qWKj2NQNJImIN9seFCxluIdM388dNJUsyjH  
+GIMP  
+remove.bg  
+ChatGPT + DALL-E  
+Tiled  
+https://codeshack.io/images-sprite-sheet-generator/  
