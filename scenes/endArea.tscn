@@ -1,0 +1,21 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://assets/sprite/portal.png" type="Texture" id=1]
+
+[sub_resource type="CapsuleShape2D" id=1]
+radius = 26.0
+height = 30.0
+
+[node name="EndArea" type="Area2D"]
+position = Vector2( 3650, 80 )
+collision_layer = 2
+collision_mask = 2
+
+[node name="EndShape" type="CollisionShape2D" parent="."]
+position = Vector2( -7, -14 )
+shape = SubResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( -7, -14 )
+scale = Vector2( 0.16, 0.16 )
+texture = ExtResource( 1 )

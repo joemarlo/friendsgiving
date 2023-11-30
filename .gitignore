@@ -1,3 +1,10 @@
+*.wav
+*.mp3
+*.png
+*.import
+
+!assets/sprite/startingScreen.png
+
 # Godot 4+ specific ignores
 .godot/
 
